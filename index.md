@@ -1,5 +1,3 @@
-# 👋 Welcome
-
 Hi, I’m **Surjeet Kaur**.  
 I work on *Machine Learning*.  
 
@@ -19,7 +17,7 @@ Download my [CV](cv.pdf).
 - [Paper 2](#)  
 
 ## 📧 Contact
-surjeetkaur2901@gmail.com  
+username@gmail.com  
 
 ---
 © 2025 Your Name
